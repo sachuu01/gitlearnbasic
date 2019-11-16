@@ -1,12 +1,12 @@
 package MavenProj.MavenDemo;
 
 public class Calculation {
-	static int a;
-	static int b;
-	static int c;
+	  int a;
+	  int b;
+	  int c;
 	
 	
-	public static void calculator()
+	public  void calculator()
 	{
 		a=10;
 		b=2;
@@ -19,7 +19,7 @@ public class Calculation {
 		
 		Calculation cal= new Calculation();
 		
-		calculator();
+		cal.calculator();
 
 	}
 

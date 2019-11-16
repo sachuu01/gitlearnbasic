@@ -7,7 +7,7 @@ public class Testone {
 	int c;
 	
 	
-	public void displayAddition()
+	public void Addition()
 	{
 		 a= 10;
 		 b= 20;
@@ -29,7 +29,7 @@ public class Testone {
 		Testone testone= new Testone();
 		
 		testone.calculation();
-		 testone.displayAddition();
+		 testone.Addition();
 		
 		
 		
