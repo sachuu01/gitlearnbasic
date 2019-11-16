@@ -5,8 +5,7 @@ public class TestThree {
 	
   public void displaytwo()
 	{
-
-
+	  
 	}
 		
 	
